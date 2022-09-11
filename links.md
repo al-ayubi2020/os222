@@ -37,7 +37,7 @@ Website untuk melihat proses pattern-matching regex. Ada alur visual yang dapat 
 3. [GeeksforGeeks AWK Basic](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)<br>
 Website dari Geeksforgeeks yang menyediakan informasi yang ringkas tentang dasar perintah awk dan disertai dengan contoh.
 
-4. [vi Command CheatSheet](https://www.guru99.com/the-vi-editor.html)
+4. [vi Command CheatSheet](https://www.guru99.com/the-vi-editor.html)<br>
 Untuk contekan jika belum terbiasa atau belum hapal dengan command vi editor
 
 5. [Bash Scripting Cheatsheet](https://devhints.io/bash)<br>

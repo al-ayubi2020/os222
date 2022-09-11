@@ -7,6 +7,7 @@ permalink: LINKS/
 [LINKS]({{ site.baseurl }}/LINKS) ---
 [TIPS]({{ site.baseurl }}}/TIPS) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[MYUPDATE]({{ site.baseurl }}{{ site.myupdatelink }}) ---
 [TARBALL]({{ site.githublink }}{{ site.tarballlink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>

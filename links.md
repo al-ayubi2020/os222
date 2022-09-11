@@ -14,7 +14,13 @@ permalink: LINKS/
 
 # LINKS
 
-input links in here later
+# Week1
+
+1. [debuggex.com] (https://www.debuggex.com)<br>
+Website untuk melihat proses pattern-matching regex. Ada alur visual yang dapat membantu kita mengerti dan debug lebih baik.
+
+2. [GeeksforGeeks AWK Basic] (https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+Website dari Geeksforgeeks yang menyediakan informasi yang ringkas tentang dasar perintah awk dan disertai dengan contoh.
 
 <br>
 <hr>

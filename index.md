@@ -10,7 +10,10 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+Github Account:	al-ayubi2020
+Name:		Muhammad Hilman Al Ayubi
+Student ID:	2106706653
+OS Class:	A
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- version: {{ site.version }}.

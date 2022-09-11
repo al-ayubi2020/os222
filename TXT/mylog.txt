@@ -1,14 +1,23 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 30 L03 GitHub related
-ZCZC W00 30 L04 GitHub Pages related
-ZCZC W00 60 L09 Weekly Assignments
-ZCZC W00 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 20 L01 SCELE/Discord related.
+ZCZC W00 30 L03 GitHub related.
+ZCZC W00 30 L04 GitHub Pages related.
+ZCZC W00 60 L09 Weekly Assignments.
+ZCZC W00 20 L03 GitHub and git related, including commit, push, pull.
 ZCZC W00 10 L41 TXT/mylog.txt related.
-ZCZC W00 100 L02 ZOOM meetings related
-ZCZC W00 100 L02 ZOOM meetings related
-ZCZC W00 120 L02 Watch class recordings
-ZCZC W00 180 L05 Quiz related including studying
-ZCZC W01 100 L02 Zoom meetings related
+ZCZC W00 100 L02 ZOOM meetings related.
+ZCZC W00 100 L02 ZOOM meetings related.
+ZCZC W00 120 L02 Watch class recordings.
+ZCZC W00 180 L05 Quiz related including studying.
+ZCZC W01 100 L02 Zoom meetings related.
+ZCZC W01 100 L02 Zoom meetings related.
+ZCZC W01 180 L31 VirtualBox: install GNU/Linux.
+ZCZC W01 120 L23 Trying Bash, Regex, Sed, AWK on VirtualBox Linux.
+ZCZC W01 120 L27 Try putty and winscp, sett up github SSH.
+ZCZC W01 120 L05 Quiz related including studiying.
+ZCZC W01 120 L13 Make index.md and _config.yml, and edit README.md
+ZCZC W01 60 L13 Make links.md and add the links.
+ZCZC W01 10 L14 make myupdate.txt file.
+ZCZC W01 10 L40 update mylog.txt.

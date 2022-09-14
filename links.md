@@ -44,6 +44,22 @@ Untuk contekan jika belum terbiasa atau belum hapal dengan command vi editor
 5. [Bash Scripting Cheatsheet](https://devhints.io/bash)<br>
 Contekan lengkap mengenai bash scripting yang ditulis dengan sangat rapih dan estetik serta dilengkapi juga oleh contoh.
 
+# Week02
+
+1. [Video Penjelasan Mengenai Enkripsi PGP Lengkap](https://www.youtube.com/watch?v=CEADq-B8KtI&pp=ugMICgJpZBABGAE%3D)<br>
+Video full course yang menjelaskan bagaimana cara Enkripsi PGP dan cara kerja nya.
+
+2. [Cara Hapus Directory atau File](https://docs.oracle.com/cd/E19253-01/806-7612/files-20/index.html#:~:text=To%20remove%20a%20directory%20and,the%20recursive%20option%2C%20%2Dr%20.&text=Directories%20that%20are%20removed%20with,with%20the%20rm%20%2Dr%20command.)<br>
+Mengingatkan bagaimana cara menghapus sebuah directory beserta contentnya dan juga menghapus file. (hanya pengingat saja)
+
+3. [Cara Mendapatkan File dari Internet](https://medium.com/theloudcloud/download-a-file-from-github-using-linux-commands-f0ce4e154c25#:~:text=In%20order%20to%20get%20the,command%20to%20download%20the%20file.&text=This%20will%20download%20the%20raw,not%20the%20HTML%20wrapped%20one.)<br>
+Mengingatkan bagaimana cara mendapatkan file dari internet. (hanya pengingat saja)
+
+4. [Memperbaiki ERROR: /bin/sh does not point to bash](https://www.linuxquestions.org/questions/linux-newbie-8/symlinking-bin-sh-to-bash-question-4175464621/)<br>
+Sebuah solusi jika muncul ERROR: /bin/sh does not point to bash ketika melakukan bash 01-Version-Check.sh. (dapat juga dilihat pada resultnya).
+
+5. [Cara Update Kernel pada Debian 11 Bullseye](https://linuxhint.com/upgrade-kernel-in-debian-11-bullseye/)<br>
+Ini adalah tutorial jika kalian ingin melakukan update kernel linux kalian ke versi yang lebih baru. (saat baca tutorial, perhatikan version pada command nya. pastikan sama dengan yang kalian install)
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.author }}.

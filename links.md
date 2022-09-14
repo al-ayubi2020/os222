@@ -62,6 +62,6 @@ Sebuah solusi jika muncul ERROR: /bin/sh does not point to bash ketika melakukan
 Ini adalah tutorial jika kalian ingin melakukan update kernel linux kalian ke versi yang lebih baru. (saat baca tutorial, perhatikan version pada command nya. pastikan sama dengan yang kalian install)
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.author }}.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>

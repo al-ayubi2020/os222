@@ -26,7 +26,6 @@ Penjelasan singkat mengenai github page dan dapat menambah wawasan lebih luas me
 3. [Pengenalan Tentang Oprating System oleh GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1)<br>
 Pembekalan awal untuk mengenal sistem oprasi lebih jauh lagi.
 
-
 # Week01
 
 1. [Apa Itu Virtual Machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br>
@@ -60,6 +59,24 @@ Sebuah solusi jika muncul ERROR: /bin/sh does not point to bash ketika melakukan
 
 5. [Cara Update Kernel pada Debian 11 Bullseye](https://linuxhint.com/upgrade-kernel-in-debian-11-bullseye/)<br>
 Ini adalah tutorial jika kalian ingin melakukan update kernel linux kalian ke versi yang lebih baru. (saat baca tutorial, perhatikan version pada command nya. pastikan sama dengan yang kalian install)
+
+# Week03
+
+1. [Cara Memperbaiki makeinfo: command not found](https://stackoverflow.com/questions/338317/what-is-makeinfo-and-how-do-i-get-it)<br>
+Ini terjadi kepada saya ketika menjalankan script pada minggu 03 ketika bagian version check, kalian bisa memanfaatkan link ini jika hal yang sama terjadi.
+
+2. [Cara Memperbaiki gawk: command not found](https://stackoverflow.com/questions/21083292/shellinstall-gawk-on-ubuntu-12-04)<br>
+Sama seperti yang diatas, terjadi juga saat menjalankan script week 03 pada bagian version check.
+
+3. [Dokumentasi grep command pada Linux](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
+ini sangat membantu ketika melakukan Quiz 2 minggu ke 3 dimana kita diberi soal mengenai scripting.
+
+4. [Video Singkat Mengenai Bagaimana Sebuah Hard Drives Bekerja](https://www.youtube.com/watch?v=wteUW2sL7bc)<br>
+dapat membantu untuk mendapatkan visualisasi bagaimana sebuah memori secondary bekerja, sehingga lebih memahami materi minggu ini.
+
+5. [Penjelasan Linux Directory (File System)](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+mendapatkan fundamental ilmu bagaimana sebuah struktur file pada linux bekerja, sehingga meminimalisir kesalahan ketika bekerja dengan linux.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

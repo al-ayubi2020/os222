@@ -77,6 +77,23 @@ dapat membantu untuk mendapatkan visualisasi bagaimana sebuah memori secondary b
 5. [Penjelasan Linux Directory (File System)](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 mendapatkan fundamental ilmu bagaimana sebuah struktur file pada linux bekerja, sehingga meminimalisir kesalahan ketika bekerja dengan linux.
 
+# Week04
+
+1. [Memperbaiki fatal error: acl/libacl.h: No such file or directory](https://github.com/iustin/pylibacl/issues/11)<br>
+Ketika melakukan compile TLPI terdapat kemungkinan terjadi error, ini adalah salah satunya.
+
+2. [Memperbaiki sys/acl.h: No such file or directory](https://man7.org/tlpi/code/faq.html#:~:text=If%20you%20encounter%20the%20error,not%20installed%20on%20your%20system.&text=On%20RPM%2Dbased%20systems%2C%20you,install%20the%20libacl%2Ddevel%20package.)<br>
+Ketika melakukan compile TLPI terdapat kemungkinan terjadi error, ini adalah salah satunya.
+
+3. [Penjelasan Tentang Warning pada saat Compile File C](https://www.techonthenet.com/c_language/directives/warning.php)<br>
+Ketika melakukan compile TLPI, terdapat beberapa warning dari beberapa file c yang akan dicompile. Pada intinya, warning tersebut tidak membatalkan proses compile tapi cuma sebagai flag saja.
+
+4. [TLPI FAQ](http://man7.org/tlpi/code/faq.html)<br>
+Pengembang resmi memberikan tempat untuk melakukan FAQ mengenai TLPI.
+
+5. [Penjelasan Lengkap TLPI](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)<br>
+Menjelaskan secara lengkap tentang TLPI agar kita bisa memahami TLPI serta kegunaannya.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

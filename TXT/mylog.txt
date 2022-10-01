@@ -46,3 +46,16 @@ ZCZC W03 30  L41 TXT/mylog.txt related.
 ZCZC W03 100 L02 Attend OS offline class.
 ZCZC W03 10  L01 SCELE/Discord related.
 ZCZC W03 3   L05 Quiz.
+ZCZC W04 60  L11 Read Silberschatz Chapter 9.
+ZCZC W04 100 L02 Attend OS Zoom Class.
+ZCZC W04 60  L11 Read Silberschatz Chapter 9.
+ZCZC W04 120 L12 Assignment #02.
+ZCZC W04 120 L24 Do Pop Quiz 01 Week 04.
+ZCZC W04 100 L02 Attend Onsite Class.
+ZCZC W04 120 L08 Try Demos Week 04.
+ZCZC W04 5   L05 Quiz02.
+ZCZC W04 3   L05 Quiz.
+ZCZC W04 10  L01 Scele/Discord Related.
+ZCZC W04 60  L04 Add links.
+ZCZC W04 30  L41 TXT/mylog.txt related.
+ZCZC W04 60  L43 TXT/myrank.tex related, including peer review.

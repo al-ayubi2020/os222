@@ -94,6 +94,23 @@ Pengembang resmi memberikan tempat untuk melakukan FAQ mengenai TLPI.
 5. [Penjelasan Lengkap TLPI](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)<br>
 Menjelaskan secara lengkap tentang TLPI agar kita bisa memahami TLPI serta kegunaannya.
 
+# Week05
+
+1. [Jenis-Jenis Increment pada Bahasa C](https://www.duniailkom.com/tutorial-belajar-c-jenis-jenis-operator-increment-dan-decrement-bahasa-c/) <br>
+Ada beberapa cara increment dan decrement pada bahasa C. Catatan ini bisa digunakan dalam mengerjakan popQuiz.
+
+2. [C Printf Formating Cheat Sheet](https://alvinalexander.com/programming/printf-format-cheat-sheet/) <br>
+Rangkuman bagaimana prtintf pada C bekerja. Dilengkapi dengan contoh jadi bisa melihat dengan jelas hasil output dari code tersebut.
+
+3. [Little Endian vs Big Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/) <br>
+Mengetahui perbedaan litle endian dan big endian.
+
+4. [Makefile Tutorial](https://makefiletutorial.com/) <br>
+Makefile merupakan salah satu cara meng-compile file C. ini adalah rangkuman dari cara membuat sebuah file berupa Makefile untuk mengcompile beberapa file C sekaligus (seperti script atau bash).
+
+5. [Pointer in C](https://www.guru99.com/c-pointers.html#:~:text=The%20Pointer%20in%20C%2C%20is,the%20next%2F%20previous%20memory%20location.) <br>
+Pointer dalam C, adalah variabel yang menyimpan alamat dari variabel lain. Pointer juga dapat digunakan untuk merujuk ke fungsi pointer lain. Pointer dapat ditambah/dikurangi, yaitu untuk menunjuk ke lokasi memori berikutnya/sebelumnya.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -73,3 +73,16 @@ ZCZC W05 15  L08 Minta keringanan pengurangan nilai pada quiz 02 W05.
 ZCZC W05 60  L04 Add links.
 ZCZC W05 30  L41 TXT/mylog.txt related.
 ZCZC W05 60  L43 TXT/myrank.txt related.
+ZCZC W06 60  L11 Read Silberschatz Chapter 3.
+ZCZC W06 100 L02 Attend OS Zoom Class.
+ZCZC W06 60  L11 Read Silberschatz Chapter 4.
+ZCZC W06 60  L07 Try Demos.
+ZCZC W06 100 L02 Attend OS Offline Class.
+ZCZC W06 60  L11 Read Silberschatz Chapter 3 and 4.
+ZCZC W06 120 L24 Update Linux to version 5.19.17.
+ZCZC W06 30  L41 TXT/mylog.txt related.
+ZCZC W06 60  L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 120 L24 Do Pop Quiz Week 06.
+ZCZC W06 3   L05 Quiz.
+ZCZC W06 30  L11 Try Demos.
+ZCZC W06 120 L13 Assignment #3.

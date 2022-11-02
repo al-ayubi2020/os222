@@ -111,6 +111,22 @@ Makefile merupakan salah satu cara meng-compile file C. ini adalah rangkuman dar
 5. [Pointer in C](https://www.guru99.com/c-pointers.html#:~:text=The%20Pointer%20in%20C%2C%20is,the%20next%2F%20previous%20memory%20location.) <br>
 Pointer dalam C, adalah variabel yang menyimpan alamat dari variabel lain. Pointer juga dapat digunakan untuk merujuk ke fungsi pointer lain. Pointer dapat ditambah/dikurangi, yaitu untuk menunjuk ke lokasi memori berikutnya/sebelumnya.
 
+# Week06
+
+1. [Cara Memindahkan File di Linux](https://opensource.com/article/19/8/moving-files-linux-depth) <br>
+Untuk mengerjakan tugas Week06 disarankan untuk mengecek seluruh output yang dihasilkan di file yang berbeda dari sumber file. dan untuk memindahkan file tsb diperlukan command yang sesuai.
+
+2. [Cara Copy file](https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/#:~:text=You%20can%20copy%20files%20by,this%20using%20the%20cp%20command.) <br>
+Ini adalah beberapa command yang dibutuhkan untuk mengcopy file. Ada beberapa cara untuk merefer filnya.
+
+3. [Cara Copy File ke Mesin Lain Melalui SSH Server](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh) <br>
+untuk mengerjakan popquiz, saya disuruh untuk mengcopy hasil kerja saya ke SSH OS1 Server. Oleh karena itu, dibutuhkanlah beberapa command yang sesuai untuk itu.
+
+4. [Cara Compress File Menjadi .xz dan .tar](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) <br>
+File pekerjaan yang sudah selesai biasanya dikumpulkan dalam bentuk compressed file dengan ekstensi .tar.xz . Berikut command yang diperlukan untuk itu.
+
+5. [Melihat Arsip Linux Kernel](https://www.kernel.org/) <br>
+Jika kalian menggunakan Linux selain Debian, kalian bisa melihat update terbaru dan berita terbaru mengenai linux kernel di website ini.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -127,6 +127,18 @@ File pekerjaan yang sudah selesai biasanya dikumpulkan dalam bentuk compressed f
 
 5. [Melihat Arsip Linux Kernel](https://www.kernel.org/) <br>
 Jika kalian menggunakan Linux selain Debian, kalian bisa melihat update terbaru dan berita terbaru mengenai linux kernel di website ini.
+
+# Week07
+
+1. [Keluar dari Vi editor tanpa save](https://phoenixnap.com/kb/how-to-vim-save-quit-exit) <br>
+Keluar dari Vi/Vim editor tanpa save perubahan sekarang. Dapat dilakukan ketika melakukan kesalahan saat copy paste text ke dalam file.
+
+2. [Rename Nama File](https://www.hostinger.co.id/tutorial/rename-file-linux)<br>
+Rename file sebelum memasukan tugas kedalam zzzSHARE. Sehingga nama sudah ssuai dengan yang diminta.
+
+3. [Discard local changes in github](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/remove-revert-discard-local-uncommitted-changes-Git-how-to#:~:text=The%20commands%20to%20discard%20all,git%20clean%20%2Dfxd)<br>
+Ketika melakukan kesalahsan saat melakukan atau mengerjakan tugas, kita dapat melakukan hapu changes yang ada sekarang. Sehingga semua perubahan yang dilakukan dihapus dan data menjadi seperti sebelumnya.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

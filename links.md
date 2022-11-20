@@ -139,6 +139,23 @@ Rename file sebelum memasukan tugas kedalam zzzSHARE. Sehingga nama sudah ssuai 
 3. [Discard local changes in github](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/remove-revert-discard-local-uncommitted-changes-Git-how-to#:~:text=The%20commands%20to%20discard%20all,git%20clean%20%2Dfxd)<br>
 Ketika melakukan kesalahsan saat melakukan atau mengerjakan tugas, kita dapat melakukan hapu changes yang ada sekarang. Sehingga semua perubahan yang dilakukan dihapus dan data menjadi seperti sebelumnya.
 
+# Week08
+
+1. [zlib-1.2.11 Download link](https://sourceforge.net/projects/libpng/)<br>
+untuk mendapatkan zlib-1.2.11 yang berasal dari link lain. Hal ini disebabkan link utama atau resminya sudah tidak dapat diakses kembali. Jadi anda dapat megunakan link ini untuk mendownload file tersebut.
+
+2. [expat-2.4.6 Download link](https://github.com/libexpat/libexpat/releases)<br>
+Sama seperti diatas, link resmi atau utama expat sudah tidak dapat diakses dan harus menggunakan link lain. Berikut anda bisa gunakan untuk mendownload file tersebut.
+
+3. [wget-list](https://www.linuxfromscratch.org/lfs/view/11.1/wget-list)<br>
+Ini adalah list dari semua dependencies yang harus didownload saat akan menjalankan Linux From Scratch. Anda harus mendownload file tersebut terlebih dahulu lalu anda dapat melakukan wget berdasarkan list tersebut.
+
+4. [md5sums](https://www.linuxfromscratch.org/lfs/view/11.1/md5sums)<br>
+md5sums memiliki fungsi yang sama dengan sha256sum. Anda perlu mendownload file ini untuk mengecek apakah semua dependencies terdownload dengan baik atau tidak. jika ada yang tidak terdownload dengan baik, anda harus mendownload secara manual dan mencari link lain untuk mendapatkan file tersebut (seperti no 1 dan 2).
+
+5. [Halaman utama buku Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
+Buku ini adalah panduan utama dalam melakukan atau membuat Linux From Scratch. Semua langkah-langkah ada didalam buku tersebut.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

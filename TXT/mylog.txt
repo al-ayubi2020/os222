@@ -113,3 +113,23 @@ ZCZC W08 5   L06 Quiz 02.
 ZCZC W08 30  L41 TXT/mylog.txt related
 ZCZC W08 60  L01 SCELE/Discord related.
 ZCZC W08 60  L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 300 L11 Read Silberschatz Chapter 11
+ZCZC W09 60  L31 LFS continued.
+ZCZC W09 60  L31 LFS Continued.
+ZCZC W09 60  L07 Try demos W09.
+ZCZC W09 100 L02 Attend OS zoom class.
+ZCZC W09 120 L24 Make Backup
+ZCZC W09 60  L31 LFS Continued.
+ZCZC W09 60  L31 LFS Continued.
+ZCZC W09 120 L24 Make Backup.
+ZCZC W09 60  L24 Do popquiz
+ZCZC W09 100 L02 Attend OS Offline class.
+ZCZC W09 60  L31 LFS Continued.
+ZCZC W09 60  L24 Make Backup.
+ZCZC W09 3   L06 Quiz 01.
+ZCZC W09 5   L06 Quiz 02.
+ZCZC W09 30  L41 TXT/mylog.
+ZCZC W09 30  L01 SCELE Check forum.
+ZCZC W09 30  L43 TXT/myrank.
+ZCZC W09 60  L31 Finishing Ch 7
+ZCZC W09 60  L24 Make Backup.

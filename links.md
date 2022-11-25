@@ -156,6 +156,23 @@ md5sums memiliki fungsi yang sama dengan sha256sum. Anda perlu mendownload file 
 5. [Halaman utama buku Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
 Buku ini adalah panduan utama dalam melakukan atau membuat Linux From Scratch. Semua langkah-langkah ada didalam buku tersebut.
 
+# Week09
+
+1. [Artikel mengenai Mass Storage Structure](https://padakuu.com/overview-of-mass-storage-structure-175-article)<br>
+Sebagai bahan tambahan jika pada buku ajar terdapat kekurangan.
+
+2. [Swap-Space Management](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)<br>
+Ketika anda melakukan LFS, pastikan anda memiliki memori yang cukup dan SWAP anda berjalan dengan baik. Swap dapat berfungsi sebagai media penyimpanan sementara dalam menjalankan suatu program jika memori anda sudah berada di batas bawah.
+
+3. [Mengetahui HDD Scheduling](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+Informasi tambahan mengenai cara bekerja sebuah HDD yang selama ini kita pakai terutama pada bagian Scheduling.
+
+4. [NVM Scheduling](https://huichen-cs.github.io/course/CISC3320/19FA/lecture/massstoragenvm.pdf)<br>
+NVM merupakan sebuah memori yang tetap dapat menyimpan data walaupun power atau daya sudah tidak ada lagi. Lawan kata dari NVM adalah VM (Volatile Memory). Link ini dapat menambah pengetahuan tentang Scheduling pada NVM.
+
+5. [File system pada OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/?ref=lbp)<br>
+Setidaknya anda mengetahui bagaimana cara penyimpanan sebuah file pada os.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

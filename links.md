@@ -173,6 +173,9 @@ NVM merupakan sebuah memori yang tetap dapat menyimpan data walaupun power atau 
 5. [File system pada OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/?ref=lbp)<br>
 Setidaknya anda mengetahui bagaimana cara penyimpanan sebuah file pada os.
 
+# Week10
+**bye bye**
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
